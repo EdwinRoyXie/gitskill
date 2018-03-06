@@ -1,3 +1,3 @@
 # gitskill
 
-Creating new branch
+Creating new branch is quick & simple
